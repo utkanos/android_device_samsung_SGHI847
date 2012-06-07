@@ -1,5 +1,6 @@
 #!/sbin/sh
-
+#
+# thanks to romracer for the tip
 # 0: charge
 # 1: direct
 # 2: recovery_enter
